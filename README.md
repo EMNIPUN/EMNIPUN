@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nipun Dhananjaya</h1>
 <h3 align="center">I'm Still an Undergraduate studying at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emnipun&label=Profile%20views&color=0e75b6&style=flat" alt="emnipun" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=emnipun&label=Profile%20views&color=0e75b6&style=flat" alt="emnipun" /> </p>
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
