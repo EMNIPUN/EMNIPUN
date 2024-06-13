@@ -11,7 +11,7 @@
   
 - 💻 I am a self-taught `Full Stack Developer` and a `Machine Learning Developer`
   
-- 📝 I have a strong interest in `Data Science` and `Artificial Intelligence`
+- 📝 I have a strong interest in `Full stack Development` and `Artificial Intelligence`
   
 - 🤔 I’m looking to collaborate with any Open - Source  `Full Stack` and `Machine Learning` projects
   
