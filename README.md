@@ -7,18 +7,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
-- 🌱 I’m currently learning `BSc (Hons) in Information Technology` from `SLIIT`
+- 🌱 I’m currently learning `BSc (Hons) in Information Technology`
   
-- 💻 I am a self-learning `Machine Learning Developer`
-  
-- 📝 I have a strong interest in `Full stack Development` and `Artificial Intelligence`
+- 📝 I have a strong interest in `Full stack Development` and `Machine Learning Developer`
   
 - 🤔 I’m looking to collaborate with any Open - Source  `Full Stack` and `Machine Learning` projects
   
-- 🚩 Interested in `Full Stack Machine Learning Application development`
-  
-- 🤝 I’m available for `freelancing`.
-
 <!--  -->
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="margin-right: 10px;"></picture> Connect with me 
