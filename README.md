@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning `BSc (Hons) in Information Technology` from `SLIIT`
   
-- 💻 I am a self-taught `Full Stack Developer` and a `Machine Learning Developer`
+- 💻 I am a self-learning a `Machine Learning Developer`
   
 - 📝 I have a strong interest in `Full stack Development` and `Artificial Intelligence`
   
