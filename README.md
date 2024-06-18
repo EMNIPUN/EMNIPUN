@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning `BSc (Hons) in Information Technology`
   
-- 📝 I have a strong interest in `Full stack Development` and `Machine Learning Developer`
+- 🌱 I’m self-learning `Machine Learning` and `Deep Learning`
   
-- 🤔 I’m looking to collaborate with any Open - Source  `Full Stack` and `Machine Learning` projects
+- 📝 I have a strong interest in `Full stack Development` and `Artificial Intelligent`
+  
+- 🤔 I’m looking to collaborate with any Open - Source  `Full Stack` and `Machine Learning or Deep Learning` projects
   
 <!--  -->
 
