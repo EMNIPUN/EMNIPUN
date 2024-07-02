@@ -20,11 +20,11 @@
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="margin-right: 10px;"></picture> Connect with me 
 
 <div align="left"  class="icons-social" style="margin-left: 10px;">
-      <a style="margin-left: 20px;"  target="_blank" href="https://www.linkedin.com/in/nipun-dhananjaya-ekanayake-9a6446280/">
+      <a style="margin-left: 20px;"  target="_blank" href="linkedin.com/in/nipun-dhananjaya-9a6446280">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       <a style="margin-left: 20px;" target="_blank" href="#">
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-      <a style="margin-left: 20px;" target="_blank" href="#">
+      <a style="margin-left: 20px;" target="_blank" href="instagram.com/nipun__d">
 			  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		  <a style="margin-left: 20px;" target="_blank" href="https://www.youtube.com/@technobit_00/featured">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
