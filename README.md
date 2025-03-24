@@ -11,7 +11,7 @@
   
 - 🌱 I’m self-learning `Machine Learning` and `Deep Learning`
   
-- 📝 I have a strong interest in `Full stack Development` and `Artificial Intelligent`
+- 📝 I have a strong interest in `AI Powered Full stack Development` and `Artificial intelligence`
   
 - 🤔 I’m looking to collaborate with any Open - Source  `Full Stack` and `Machine Learning or Deep Learning` projects
   
